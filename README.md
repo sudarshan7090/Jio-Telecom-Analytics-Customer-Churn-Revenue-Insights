@@ -148,7 +148,7 @@ To build an interactive analytics solution that:
 
 ### 📊 Dashboard Preview
 
-*(Add your screenshots here)*
+*(https://github.com/sudarshan7090/Jio-Telecom-Analytics-Customer-Churn-Revenue-Insights/blob/main/Images/Snapshot%20of%20Jio_Churn_Analysis_Dashboard1.png)*
 
 * Customer Overview Page
 * Revenue Analysis Page
