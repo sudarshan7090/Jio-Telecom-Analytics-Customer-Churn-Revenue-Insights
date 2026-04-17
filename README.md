@@ -23,7 +23,6 @@ The dashboard was built using the following tools and technologies:
 * 📊 **Power BI Desktop** – Main data visualization platform
 * 📂 **Power Query** – Data cleaning and transformation
 * 🧠 **DAX (Data Analysis Expressions)** – Measures and calculated columns (Churn Rate, ARPU, CLTV, etc.)
-* 🔗 **Data Modeling** – Relationships between customer, services, and billing data
 * 📁 **File Formats** – `.pbix` for development and `.png` for dashboard previews
 
 ---
