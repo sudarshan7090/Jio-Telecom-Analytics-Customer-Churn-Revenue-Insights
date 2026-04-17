@@ -146,13 +146,13 @@ To build an interactive analytics solution that:
 
 ## 6. Screenshots / Demos
 
-
 ### 📊 Dashboard Preview
 * Customer Overview Page
   ![Customer Overview Page](https://github.com/sudarshan7090/Jio-Telecom-Analytics-Customer-Churn-Revenue-Insights/blob/main/Images/Snapshot%20of%20Jio_Churn_Analysis_Dashboard1.png)
 * Revenue Analysis Page
    ![Revenue & Value Page](https://github.com/sudarshan7090/Jio-Telecom-Analytics-Customer-Churn-Revenue-Insights/blob/main/Images/Snapshot%20of%20Jio_Churn_Analysis_Dashboard2.png)
 * Retention & Risk Page
+   ![Retention & Risk Page](https://github.com/sudarshan7090/Jio-Telecom-Analytics-Customer-Churn-Revenue-Insights/blob/main/Images/Snapshot%20of%20Jio_Churn_Analysis_Dashboard3.png)
 
 ---
 
