@@ -145,7 +145,7 @@ To build an interactive analytics solution that:
 
 ## 6. Screenshots / Demos
 **Live Power BI Dashboard:**  
-https://app.powerbi.com/view?r=eyJrIjoiZmRhMTQzYmUtZjA5Zi00ZmVlLTg5M2ItNDc5NjM2ZmVkNDE0IiwidCI6IjRiNjhjMzliLWU3ZTUtNDMzZC04ODRiLTZmMGQ2NTU1MWVmNyJ9
+https://app.powerbi.com/view?r=eyJrIjoiMDQ0MmQwODYtYjA0Zi00YzdlLThiZWEtZDMzYjk2NTI3OGVlIiwidCI6IjRiNjhjMzliLWU3ZTUtNDMzZC04ODRiLTZmMGQ2NTU1MWVmNyJ9
 
 ### 📊 Dashboard Preview
 * Customer Overview Page
