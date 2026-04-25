@@ -1,162 +1,143 @@
+# Jio Telecom Analytics: Customer Churn & Revenue Insights
 
-# 📊 Jio Telecom Analytics: Customer Churn & Revenue Insights
-
----
-
-## 1. Project Title / Headline
-
-**📡 Jio Telecom Analytics: Customer Churn & Revenue Insights Dashboard**
-A dynamic, interactive Power BI dashboard designed to analyze customer behavior, identify churn drivers, and uncover revenue opportunities within a telecom business environment.
+## Project Overview
+Jio Telecom Analytics is an interactive Power BI dashboard designed to analyze customer behavior, identify churn drivers, and uncover revenue opportunities within a telecom business environment. The solution enables stakeholders to make data-driven decisions to improve customer retention and maximize profitability.
 
 ---
 
-## 2. Short Description / Purpose
+## Purpose
+The dashboard provides insights into:
+- Customer churn patterns  
+- Revenue distribution  
+- Retention risks  
 
-The Jio Telecom Analytics Dashboard is a comprehensive data visualization solution built to explore customer churn patterns, revenue distribution, and retention risks. It enables stakeholders to make data-driven decisions to improve customer retention and maximize profitability.
-
----
-
-## 3. Tech Stack
-
-The dashboard was built using the following tools and technologies:
-
-* 📊 **Power BI Desktop** – Main data visualization platform
-* 📂 **Power Query** – Data cleaning and transformation
-* 🧠 **DAX (Data Analysis Expressions)** – Measures and calculated columns (Churn Rate, ARPU, CLTV, etc.)
-* 📁 **File Formats** – `.pbix` for development and `.png` for dashboard previews
+It helps businesses take proactive actions to reduce churn and improve overall performance.
 
 ---
 
-## 4. Data Source
-
-**Source:** IBM Sample Telco Customer Churn Dataset
-
-The dataset contains **7043 customer records** with 33 variables, including:
-
-* Customer demographics (Gender, Senior Citizen, Dependents)
-* Account information (Tenure, Contract Type, Payment Method)
-* Services (Internet, Tech Support, Security, Streaming)
-* Financial data (Monthly Charges, Total Charges, CLTV)
-* Churn indicators (Churn Value, Churn Score, Churn Reason)
+## Tech Stack
+- **Power BI Desktop** – Data visualization and dashboard creation  
+- **Power Query** – Data cleaning and transformation  
+- **DAX (Data Analysis Expressions)** – Measures and calculated columns (Churn Rate, ARPU, CLTV)  
+- **File Formats** – `.pbix`, `.png`  
 
 ---
 
-## 5. Features / Highlights
+## Data Source
+**Dataset:** IBM Telco Customer Churn Dataset  
+
+- Total Records: 7,043  
+- Total Features: 33  
+
+### Data Includes:
+- Customer demographics (Gender, Senior Citizen, Dependents)  
+- Account details (Tenure, Contract Type, Payment Method)  
+- Services (Internet, Tech Support, Security, Streaming)  
+- Financial data (Monthly Charges, Total Charges, CLTV)  
+- Churn indicators (Churn Value, Churn Score, Churn Reason)  
 
 ---
 
-### 🔴 Business Problem
+## Business Problem
+Customer churn is a critical issue in the telecom industry, impacting revenue and long-term growth.
 
-Customer churn is a major challenge in the telecom industry, directly impacting revenue and profitability.
-
-Key questions include:
-
-* Which customers are most likely to churn?
-* What factors drive customer churn?
-* Which customer segments generate the most revenue?
-* How can the company improve retention strategies?
+### Key Questions Addressed:
+- Which customers are likely to churn?  
+- What factors drive churn?  
+- Which segments generate the most revenue?  
+- How can retention be improved?  
 
 ---
 
-### 🎯 Goal of the Dashboard
-
-To build an interactive analytics solution that:
-
-* Identifies key drivers of customer churn
-* Analyzes revenue distribution and customer value
-* Segments customers based on behavior and CLTV
-* Enables proactive decision-making for retention strategies
+## Project Objectives
+- Identify key drivers of customer churn  
+- Analyze revenue distribution and customer value  
+- Segment customers based on behavior and CLTV  
+- Enable proactive retention strategies  
 
 ---
 
-### 📊 Walkthrough of Key Visuals
+## Dashboard Walkthrough
 
----
-
-#### 🔝 Customer Overview (Page 1)
-
-**Key KPIs:**
-
-* Total Customers
-* Churn Rate (%)
-* Total Churned Customers
-* Average Tenure
+### 1. Customer Overview
+**KPIs:**
+- Total Customers  
+- Churn Rate (%)  
+- Total Churned Customers  
+- Average Tenure  
 
 **Visuals:**
-
-* **Churn Rate by Contract Type** → Identifies high-risk customer segments
-* **Churn by Internet Service** → Highlights service-based churn patterns
-* **Churn by Customer segment** → Shows churn among customer segment
-* **Top Churn Reasons** → Reveals root causes of customer attrition
+- Churn Rate by Contract Type  
+- Churn by Internet Service  
+- Churn by Customer Segment  
+- Top Churn Reasons  
 
 ---
 
-#### 💰 Revenue Analysis (Page 2)
-
-**Key KPIs:**
-
-* Total Revenue
-* ARPU (Average Revenue Per User)
-* Average CLTV
-* High Value Customers
+### 2. Revenue Analysis
+**KPIs:**
+- Total Revenue  
+- ARPU (Average Revenue Per User)  
+- Average CLTV  
+- High-Value Customers  
 
 **Visuals:**
-
-* **Revenue by Contract Type** → Long-term contracts generate stable revenue
-* **Monthly Charges Distribution** → Shows customer pricing clusters
-* **Revenue by Customer Segment (CLTV)** → Highlights high-value segments
+- Revenue by Contract Type  
+- Monthly Charges Distribution  
+- Revenue by Customer Segment (CLTV)  
 
 ---
 
-#### 🚨 Retention & Risk Analysis (Page 3)
-
-**Key KPIs:**
-
-* Retention Rate (%)
-* High Churn Risk Customers
-* Churn Rate (High CLTV Customers)
+### 3. Retention & Risk Analysis
+**KPIs:**
+- Retention Rate (%)  
+- High Churn Risk Customers  
+- Churn Rate (High CLTV Customers)  
 
 **Visuals:**
-
-* **Churn Score Distribution** → Identifies at-risk customers
-* **High Risk Customers Table** → Enables targeted action
-* **Services vs Churn** → Shows impact of support services on retention
-
----
-
-### 📈 Business Impact & Insights
-
-* **Churn Reduction:**
-  Month-to-month customers show significantly higher churn → Opportunity to promote long-term contracts
-
-* **Customer Retention:**
-  Customers without tech support and security services have higher churn → Bundle services to improve retention
-
-* **Revenue Optimization:**
-  Mid-tier pricing dominates → Upselling premium plans can increase ARPU
-
-* **High-Value Customer Protection:**
-  Monitoring high CLTV customers is critical to prevent revenue loss
-
-* **Data-Driven Strategy:**
-  Enables proactive decision-making using churn prediction and segmentation
+- Churn Score Distribution  
+- High-Risk Customers Table  
+- Services vs Churn  
 
 ---
 
-## 6. Screenshots / Demos
-**Live Power BI Dashboard:**  
-https://app.powerbi.com/view?r=eyJrIjoiMDQ0MmQwODYtYjA0Zi00YzdlLThiZWEtZDMzYjk2NTI3OGVlIiwidCI6IjRiNjhjMzliLWU3ZTUtNDMzZC04ODRiLTZmMGQ2NTU1MWVmNyJ9
+## Key Insights
 
-### 📊 Dashboard Preview
-* Customer Overview Page
-  ![Customer Overview Page](https://github.com/sudarshan7090/Jio-Telecom-Analytics-Customer-Churn-Revenue-Insights/blob/main/Images/Snapshot%20of%20Jio_Churn_Analysis_Dashboard1.png)
-* Revenue Analysis Page
-   ![Revenue & Value Page](https://github.com/sudarshan7090/Jio-Telecom-Analytics-Customer-Churn-Revenue-Insights/blob/main/Images/Snapshot%20of%20Jio_Churn_Analysis_Dashboard2.png)
-* Retention & Risk Page
-   ![Retention & Risk Page](https://github.com/sudarshan7090/Jio-Telecom-Analytics-Customer-Churn-Revenue-Insights/blob/main/Images/Snapshot%20of%20Jio_Churn_Analysis_Dashboard3.png)
+- **High Churn in Monthly Contracts:**  
+  Month-to-month customers have significantly higher churn rates  
+
+- **Service Impact on Retention:**  
+  Lack of tech support and security services increases churn  
+
+- **Revenue Opportunities:**  
+  Mid-tier pricing dominates; upselling can improve ARPU  
+
+- **High-Value Customer Focus:**  
+  Monitoring high CLTV customers is essential to reduce revenue loss  
+
+- **Data-Driven Decisions:**  
+  Enables proactive churn prediction and customer segmentation  
 
 ---
 
-# 🚀 Conclusion
+## Dashboard Access
+**Live Dashboard:**  
+https://app.powerbi.com/view?r=eyJrIjoiMDQ0MmQwODYtYjA0Zi00YzdlLThiZWEtZDMzYjk2NTI3OGVlIiwidCI6IjRiNjhjMzliLWU3ZTUtNDMzZC04ODRiLTZmMGQ2NTU1MWVmNyJ9  
 
-This project demonstrates how data analytics can be leveraged to understand customer behavior, reduce churn, and drive business growth in the telecom industry using Power BI.
+---
+
+## Dashboard Preview
+
+### Customer Overview
+![Customer Overview](https://github.com/sudarshan7090/Jio-Telecom-Analytics-Customer-Churn-Revenue-Insights/blob/main/Images/Snapshot%20of%20Jio_Churn_Analysis_Dashboard1.png)
+
+### Revenue Analysis
+![Revenue Analysis](https://github.com/sudarshan7090/Jio-Telecom-Analytics-Customer-Churn-Revenue-Insights/blob/main/Images/Snapshot%20of%20Jio_Churn_Analysis_Dashboard2.png)
+
+### Retention & Risk Analysis
+![Retention & Risk](https://github.com/sudarshan7090/Jio-Telecom-Analytics-Customer-Churn-Revenue-Insights/blob/main/Images/Snapshot%20of%20Jio_Churn_Analysis_Dashboard3.png)
+
+---
+
+## Conclusion
+This project demonstrates how data analytics can be used to understand customer behavior, reduce churn, and drive business growth in the telecom industry using Power BI.
